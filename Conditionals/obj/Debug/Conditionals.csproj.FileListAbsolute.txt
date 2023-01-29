@@ -1,0 +1,7 @@
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\bin\Debug\Conditionals.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\bin\Debug\Conditionals.exe
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\bin\Debug\Conditionals.pdb
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\obj\Debug\Conditionals.csprojAssemblyReference.cache
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\obj\Debug\Conditionals.exe
+E:\Web Form ASP.net\repos\My_First_Project\Conditionals\obj\Debug\Conditionals.pdb

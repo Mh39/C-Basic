@@ -1,0 +1,6 @@
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\bin\Debug\conditionswitch.exe.config
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\bin\Debug\conditionswitch.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\bin\Debug\conditionswitch.pdb
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\obj\Debug\conditionswitch.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\obj\Debug\conditionswitch.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\conditionswitch\obj\Debug\conditionswitch.pdb

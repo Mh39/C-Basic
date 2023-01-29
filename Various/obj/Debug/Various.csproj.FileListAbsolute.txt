@@ -1,0 +1,6 @@
+E:\Web Form ASP.net\repos\My_First_Project\Various\bin\Debug\Various.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\Various\bin\Debug\Various.exe
+E:\Web Form ASP.net\repos\My_First_Project\Various\bin\Debug\Various.pdb
+E:\Web Form ASP.net\repos\My_First_Project\Various\obj\Debug\Various.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\Various\obj\Debug\Various.exe
+E:\Web Form ASP.net\repos\My_First_Project\Various\obj\Debug\Various.pdb

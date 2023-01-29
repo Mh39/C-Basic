@@ -1,0 +1,7 @@
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\bin\Debug\ITIDAY1.exe.config
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\bin\Debug\ITIDAY1.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\bin\Debug\ITIDAY1.pdb
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\obj\Debug\ITIDAY1.csprojAssemblyReference.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\obj\Debug\ITIDAY1.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\obj\Debug\ITIDAY1.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\ITIDAY1\obj\Debug\ITIDAY1.pdb

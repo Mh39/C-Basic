@@ -1,0 +1,7 @@
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\bin\Debug\الروابط.exe.config
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\bin\Debug\الروابط.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\bin\Debug\الروابط.pdb
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\obj\Debug\Relations.csprojAssemblyReference.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\obj\Debug\Relations.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\obj\Debug\الروابط.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\الروابط\obj\Debug\الروابط.pdb

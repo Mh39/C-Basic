@@ -1,0 +1,6 @@
+E:\Web Form ASP.net\repos\My_First_Project\Methods\bin\Debug\Methods.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\Methods\bin\Debug\Methods.exe
+E:\Web Form ASP.net\repos\My_First_Project\Methods\bin\Debug\Methods.pdb
+E:\Web Form ASP.net\repos\My_First_Project\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\Methods\obj\Debug\Methods.exe
+E:\Web Form ASP.net\repos\My_First_Project\Methods\obj\Debug\Methods.pdb

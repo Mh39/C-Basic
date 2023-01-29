@@ -1,0 +1,7 @@
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\bin\Debug\grademark.exe.config
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\bin\Debug\grademark.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\bin\Debug\grademark.pdb
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\obj\Debug\grademark.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\obj\Debug\grademark.exe
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\obj\Debug\grademark.pdb
+C:\Users\Mohamed Hassan\source\repos\My_First_Project\grademark\obj\Debug\grademark.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\bin\Debug\Exception_Handling.exe
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\bin\Debug\Exception_Handling.pdb
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\obj\Debug\Exception_Handling.csprojAssemblyReference.cache
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\obj\Debug\Exception_Handling.exe
+E:\Web Form ASP.net\repos\My_First_Project\Exception_Handling\obj\Debug\Exception_Handling.pdb

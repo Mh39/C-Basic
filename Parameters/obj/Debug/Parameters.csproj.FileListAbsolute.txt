@@ -1,0 +1,6 @@
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\bin\Debug\Parameters.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\bin\Debug\Parameters.exe
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\bin\Debug\Parameters.pdb
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\obj\Debug\Parameters.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\obj\Debug\Parameters.exe
+E:\Web Form ASP.net\repos\My_First_Project\Parameters\obj\Debug\Parameters.pdb

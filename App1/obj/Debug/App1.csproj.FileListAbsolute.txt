@@ -1,0 +1,7 @@
+E:\Web Form ASP.net\repos\My_First_Project\App1\bin\Debug\App1.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\App1\bin\Debug\App1.exe
+E:\Web Form ASP.net\repos\My_First_Project\App1\bin\Debug\App1.pdb
+E:\Web Form ASP.net\repos\My_First_Project\App1\obj\Debug\App1.csprojAssemblyReference.cache
+E:\Web Form ASP.net\repos\My_First_Project\App1\obj\Debug\App1.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\App1\obj\Debug\App1.exe
+E:\Web Form ASP.net\repos\My_First_Project\App1\obj\Debug\App1.pdb

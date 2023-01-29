@@ -1,0 +1,7 @@
+E:\Web Form ASP.net\repos\My_First_Project\array\bin\Debug\array.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\array\bin\Debug\array.exe
+E:\Web Form ASP.net\repos\My_First_Project\array\bin\Debug\array.pdb
+E:\Web Form ASP.net\repos\My_First_Project\array\obj\Debug\array.csprojAssemblyReference.cache
+E:\Web Form ASP.net\repos\My_First_Project\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\array\obj\Debug\array.exe
+E:\Web Form ASP.net\repos\My_First_Project\array\obj\Debug\array.pdb

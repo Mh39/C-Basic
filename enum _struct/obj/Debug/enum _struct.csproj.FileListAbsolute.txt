@@ -1,0 +1,7 @@
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\bin\Debug\enum _struct.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\bin\Debug\enum _struct.exe
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\bin\Debug\enum _struct.pdb
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\obj\Debug\enum _struct.csprojAssemblyReference.cache
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\obj\Debug\enum _struct.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\obj\Debug\enum _struct.exe
+E:\Web Form ASP.net\repos\My_First_Project\enum _struct\obj\Debug\enum _struct.pdb

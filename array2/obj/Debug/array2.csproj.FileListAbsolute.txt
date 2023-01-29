@@ -1,0 +1,6 @@
+E:\Web Form ASP.net\repos\My_First_Project\array2\bin\Debug\array2.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\array2\bin\Debug\array2.exe
+E:\Web Form ASP.net\repos\My_First_Project\array2\bin\Debug\array2.pdb
+E:\Web Form ASP.net\repos\My_First_Project\array2\obj\Debug\array2.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\array2\obj\Debug\array2.exe
+E:\Web Form ASP.net\repos\My_First_Project\array2\obj\Debug\array2.pdb

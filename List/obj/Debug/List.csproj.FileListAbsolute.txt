@@ -1,0 +1,6 @@
+E:\Web Form ASP.net\repos\My_First_Project\List\bin\Debug\List.exe.config
+E:\Web Form ASP.net\repos\My_First_Project\List\bin\Debug\List.exe
+E:\Web Form ASP.net\repos\My_First_Project\List\bin\Debug\List.pdb
+E:\Web Form ASP.net\repos\My_First_Project\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\Web Form ASP.net\repos\My_First_Project\List\obj\Debug\List.exe
+E:\Web Form ASP.net\repos\My_First_Project\List\obj\Debug\List.pdb
